@@ -1,0 +1,729 @@
+Date: Fri, 30 Jun 2023 10:36:52 +0800 (CST)
+Message-ID: <1307216793.301042.1688092612614@ea1e7dc9d586>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_301041_301543981.1688092612614"
+
+------=_Part_301041_301543981.1688092612614
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>=E6=95=B4=E5=BD=A2=E7=BC=96=E7=A0=81=E4=BC=98=E5=8C=96</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>=E6=95=B4=E5=BD=A2=E7=BC=96=E7=A0=81=E4=BC=98=E5=8C=96</h1>
+    <div class=3D"Section1">
+        <div class=3D"code panel pdl" style=3D"border-width: 1px;">=20
+<div class=3D"codeHeader panelHeader pdl hide-border-bottom" style=3D"borde=
+r-bottom-width: 1px;"> <b class=3D"code-title">=E6=95=B4=E5=BD=A2=E7=BC=96=
+=E7=A0=81</b><span class=3D"collapse-source expand-control" style=3D"displa=
+y:none;"><span class=3D"expand-control-icon icon">&nbsp;</span><span class=
+=3D"expand-control-text">=E5=B1=95=E5=BC=80=E6=BA=90=E7=A0=81</span></span>=
+<span class=3D"collapse-spinner-wrapper"></span>=20
+</div>=20
+<div class=3D"codeContent panelContent pdl hide-toolbar">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: c#; gutter: true; theme: Confluence; collapse: true" data-theme=3D"Conflu=
+ence">using System;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+
+public static class BattleEncode {
+/// &lt;summary&gt;
+/// =E5=AF=B9 int =E7=B1=BB=E5=9E=8B=E8=BF=9B=E8=A1=8C zigzag =E7=BC=96=E7=
+=A0=81
+/// &lt;/summary&gt;
+public static int RawInt32ToZigZag(Int32 value) {
+return (value &lt;&lt; 1) ^ (value &gt;&gt; 31);
+}
+
+/// &lt;summary&gt;
+/// =E5=AF=B9 long =E7=B1=BB=E5=9E=8B=E8=BF=9B=E8=A1=8C zigzag =E7=BC=96=E7=
+=A0=81
+/// &lt;/summary&gt;
+public static long RawInt64ToZigZag(Int64 value) {
+return (value &lt;&lt; 1) ^ (value &gt;&gt; 63);
+}
+
+/// &lt;summary&gt;
+/// =E8=8E=B7=E5=8F=96 uint =E9=95=BF=E5=BA=A6
+/// &lt;/summary&gt;
+/// &lt;param name=3D"value"&gt;&lt;/param&gt;
+/// &lt;returns&gt;&lt;/returns&gt;
+public static int GetUInt32Size(uint value) {
+int result =3D 0;
+do {
+result++;
+value =3D LogicalRightMove(value, 7);
+}
+while (value !=3D 0);
+
+return result;
+}
+
+/// &lt;summary&gt;
+/// =E8=8E=B7=E5=8F=96 ulong =E9=95=BF=E5=BA=A6
+/// &lt;/summary&gt;
+/// &lt;param name=3D"value"&gt;&lt;/param&gt;
+/// &lt;returns&gt;&lt;/returns&gt;
+public static int GetUInt64Size(ulong value) {
+int result =3D 0;
+do {
+result++;
+value =3D Int64LogicalRightMove(value, 7);
+}
+while (value !=3D 0);
+
+return result;
+}
+
+static uint LogicalRightMove(uint value, int bit) {
+if (bit !=3D 0) {
+value &gt;&gt;=3D 1;
+value &amp;=3D UInt32.MaxValue;
+value &gt;&gt;=3D bit - 1;
+}
+
+return value;
+}
+
+static ulong Int64LogicalRightMove(ulong value, int bit) {
+if (bit !=3D 0) {
+value &gt;&gt;=3D 1;
+value &amp;=3D UInt64.MaxValue;
+value &gt;&gt;=3D bit - 1;
+}
+
+return value;
+}
+
+/// &lt;summary&gt;
+/// long =E5=8F=AF=E5=8F=98=E9=95=BF=E5=BA=A6=E7=BC=96=E7=A0=81
+/// &lt;/summary&gt;
+/// &lt;param name=3D"value"&gt;&lt;/param&gt;
+/// &lt;returns&gt;&lt;/returns&gt;
+public static byte[] Int64Encode(long value) {
+ulong zigzagValue =3D (ulong)RawInt64ToZigZag(value); // =E5=AF=B9=E6=9C=89=
+=E7=AC=A6=E5=8F=B7=E9=95=BF=E6=95=B4=E5=9E=8B=E8=BF=9B=E8=A1=8C zigzag =E7=
+=BC=96=E7=A0=81
+return UInt64Encode(zigzagValue);
+}
+
+/// &lt;summary&gt;
+/// long =E5=8F=AF=E5=8F=98=E9=95=BF=E5=BA=A6=E8=A7=A3=E7=A0=81
+/// &lt;/summary&gt;
+/// &lt;param name=3D"value"&gt;&lt;/param&gt;
+/// &lt;returns&gt;&lt;/returns&gt;
+public static long Int64Decode(byte[] data) {
+ulong zigzagValue =3D UInt64Decode(data);
+// =E5=AF=B9 zigzag =E7=BC=96=E7=A0=81=E8=BF=9B=E8=A1=8C=E5=8F=8D=E8=BD=AC=
+=EF=BC=8C=E5=BE=97=E5=88=B0=E5=8E=9F=E5=A7=8B=E6=9C=89=E7=AC=A6=E5=8F=B7=E9=
+=95=BF=E6=95=B4=E5=9E=8B=E5=80=BC
+return (long)(zigzagValue &gt;&gt; 1) ^ -(long)(zigzagValue &amp; 1);
+}
+
+/// &lt;summary&gt;
+/// ulong =E5=8F=AF=E5=8F=98=E9=95=BF=E5=BA=A6=E7=BC=96=E7=A0=81
+/// &lt;/summary&gt;
+/// &lt;param name=3D"value"&gt;&lt;/param&gt;
+/// &lt;returns&gt;&lt;/returns&gt;
+public static byte[] UInt64Encode(ulong value) {
+byte[] buffer =3D new byte[GetUInt64Size(value)]; // =E6=9C=80=E5=A4=9A=E9=
+=9C=80=E8=A6=8110=E4=B8=AA=E5=AD=97=E8=8A=82=E5=AD=98=E5=82=A8
+int index =3D 0;
+do {
+byte b =3D (byte)(value &amp; 0x7f); // =E5=8F=96=E4=BD=8E7=E4=BD=8D
+value &gt;&gt;=3D 7; // =E5=8F=B3=E7=A7=BB7=E4=BD=8D=EF=BC=8C=E5=8E=BB=E6=
+=8E=89=E5=B7=B2=E5=8F=96=E5=87=BA=E7=9A=847=E4=BD=8D
+if (value !=3D 0) {
+b |=3D 0x80; // =E6=A0=87=E8=AE=B0=E9=AB=98=E4=BD=8D=E4=B8=BA1=EF=BC=8C=E8=
+=A1=A8=E7=A4=BA=E8=BF=98=E6=9C=89=E5=90=8E=E7=BB=AD=E5=AD=97=E8=8A=82
+}
+buffer[index++] =3D b;
+} while (value !=3D 0); // =E7=9B=B4=E5=88=B0=E6=89=80=E6=9C=89=E5=AD=97=E8=
+=8A=82=E9=83=BD=E5=86=99=E5=85=A5=E5=AE=8C=E6=88=90
+
+byte[] result =3D new byte[index];
+Array.Copy(buffer, result, index); // =E5=B0=86=E5=AE=9E=E9=99=85=E5=86=99=
+=E5=85=A5=E7=9A=84=E5=AD=97=E8=8A=82=E5=A4=8D=E5=88=B6=E5=88=B0=E4=B8=80=E4=
+=B8=AA=E6=96=B0=E6=95=B0=E7=BB=84=E4=B8=AD
+return result;
+}
+
+/// &lt;summary&gt;
+/// ulong =E5=8F=AF=E5=8F=98=E9=95=BF=E5=BA=A6=E8=A7=A3=E7=A0=81
+/// &lt;/summary&gt;
+/// &lt;param name=3D"value"&gt;&lt;/param&gt;
+/// &lt;returns&gt;&lt;/returns&gt;
+public static ulong UInt64Decode(byte[] bytes) {
+ulong result =3D 0;
+int shift =3D 0;
+int offset =3D 0;
+
+for (int i =3D 0; i &lt; bytes.Length; i++) {
+byte b =3D bytes[i];
+result |=3D (ulong)(b &amp; 0x7f) &lt;&lt; shift;
+shift +=3D 7;
+offset++;
+
+if ((b &amp; 0x80) =3D=3D 0) {
+break; // =E9=81=87=E5=88=B0=E6=9C=80=E5=90=8E=E4=B8=80=E4=B8=AA=E5=AD=97=
+=E8=8A=82=EF=BC=8C=E7=BB=93=E6=9D=9F=E8=A7=A3=E7=A0=81
+}
+}
+
+return result;
+}
+
+/// &lt;summary&gt;
+/// int =E5=8F=AF=E5=8F=98=E9=95=BF=E5=BA=A6=E7=BC=96=E7=A0=81
+/// &lt;/summary&gt;
+/// &lt;param name=3D"value"&gt;&lt;/param&gt;
+/// &lt;returns&gt;&lt;/returns&gt;
+public static byte[] Int32Encode(int value) {
+uint zigzagValue =3D (uint)RawInt32ToZigZag(value); // =E5=AF=B9=E6=9C=89=
+=E7=AC=A6=E5=8F=B7=E9=95=BF=E6=95=B4=E5=9E=8B=E8=BF=9B=E8=A1=8C zigzag =E7=
+=BC=96=E7=A0=81
+return UInt32Encode(zigzagValue);
+}
+
+/// &lt;summary&gt;
+/// int =E5=8F=AF=E5=8F=98=E9=95=BF=E5=BA=A6=E8=A7=A3=E7=A0=81
+/// &lt;/summary&gt;
+/// &lt;param name=3D"value"&gt;&lt;/param&gt;
+/// &lt;returns&gt;&lt;/returns&gt;
+public static int Int32Decode(byte[] data) {
+uint zigzagValue =3D UInt32Decode(data);
+// =E5=AF=B9 zigzag =E7=BC=96=E7=A0=81=E8=BF=9B=E8=A1=8C=E5=8F=8D=E8=BD=AC=
+=EF=BC=8C=E5=BE=97=E5=88=B0=E5=8E=9F=E5=A7=8B=E6=9C=89=E7=AC=A6=E5=8F=B7=E9=
+=95=BF=E6=95=B4=E5=9E=8B=E5=80=BC
+return (int)(zigzagValue &gt;&gt; 1) ^ -(int)(zigzagValue &amp; 1);
+}
+
+/// &lt;summary&gt;
+/// uint =E5=8F=AF=E5=8F=98=E9=95=BF=E5=BA=A6=E8=A7=A3=E7=A0=81
+/// &lt;/summary&gt;
+/// &lt;param name=3D"value"&gt;&lt;/param&gt;
+/// &lt;returns&gt;&lt;/returns&gt;
+public static byte[] UInt32Encode(uint value) {
+byte[] buffer =3D new byte[GetUInt32Size(value)]; // =E6=9C=80=E5=A4=9A=E9=
+=9C=80=E8=A6=815=E4=B8=AA=E5=AD=97=E8=8A=82=E5=AD=98=E5=82=A8
+int index =3D 0;
+do {
+byte b =3D (byte)(value &amp; 0x7f); // =E5=8F=96=E4=BD=8E7=E4=BD=8D
+value &gt;&gt;=3D 7; // =E5=8F=B3=E7=A7=BB7=E4=BD=8D=EF=BC=8C=E5=8E=BB=E6=
+=8E=89=E5=B7=B2=E5=8F=96=E5=87=BA=E7=9A=847=E4=BD=8D
+if (value !=3D 0) {
+b |=3D 0x80; // =E6=A0=87=E8=AE=B0=E9=AB=98=E4=BD=8D=E4=B8=BA1=EF=BC=8C=E8=
+=A1=A8=E7=A4=BA=E8=BF=98=E6=9C=89=E5=90=8E=E7=BB=AD=E5=AD=97=E8=8A=82
+}
+buffer[index++] =3D b;
+} while (value !=3D 0); // =E7=9B=B4=E5=88=B0=E6=89=80=E6=9C=89=E5=AD=97=E8=
+=8A=82=E9=83=BD=E5=86=99=E5=85=A5=E5=AE=8C=E6=88=90
+
+return buffer;
+}
+
+/// &lt;summary&gt;
+/// uint =E5=8F=AF=E5=8F=98=E9=95=BF=E5=BA=A6=E8=A7=A3=E7=A0=81
+/// &lt;/summary&gt;
+/// &lt;param name=3D"value"&gt;&lt;/param&gt;
+/// &lt;returns&gt;&lt;/returns&gt;
+public static uint UInt32Decode(byte[] data) {
+uint result =3D 0;
+int shift =3D 0;
+int offset =3D 0;
+while (true) {
+byte b =3D data[offset++];
+result |=3D (uint)(b &amp; 0x7f) &lt;&lt; shift; // =E5=8F=96=E4=BD=8E7=E4=
+=BD=8D=EF=BC=8C=E5=B9=B6=E5=B7=A6=E7=A7=BB=E7=9B=B8=E5=BA=94=E7=9A=84=E4=BD=
+=8D=E6=95=B0
+if ((b &amp; 0x80) =3D=3D 0) // =E9=AB=98=E4=BD=8D=E4=B8=BA0=E8=A1=A8=E7=A4=
+=BA=E5=B7=B2=E7=BB=8F=E8=A7=A3=E7=A0=81=E5=AE=8C=E6=88=90
+{
+break;
+}
+shift +=3D 7; // =E7=BB=A7=E7=BB=AD=E8=A7=A3=E7=A0=81=E4=B8=8B=E4=B8=80=E4=
+=B8=AA=E5=AD=97=E8=8A=82
+}
+return result;
+}
+}</pre>=20
+</div>=20
+</div>
+<p><br></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">=20
+<div class=3D"codeHeader panelHeader pdl hide-border-bottom" style=3D"borde=
+r-bottom-width: 1px;"> <b class=3D"code-title">=E6=B5=8B=E8=AF=95=E7=94=A8=
+=E4=BE=8B</b><span class=3D"collapse-source expand-control" style=3D"displa=
+y:none;"><span class=3D"expand-control-icon icon">&nbsp;</span><span class=
+=3D"expand-control-text">=E5=B1=95=E5=BC=80=E6=BA=90=E7=A0=81</span></span>=
+<span class=3D"collapse-spinner-wrapper"></span>=20
+</div>=20
+<div class=3D"codeContent panelContent pdl hide-toolbar">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: c#; gutter: true; theme: Confluence; collapse: true" data-theme=3D"Conflu=
+ence">using System;
+using System.Diagnostics;
+using Debug =3D UnityEngine.Debug;
+using NUnit.Framework;
+using System.Collections;
+using UnityEngine;
+using UnityEngine.TestTools;
+
+public class EncodeTest {
+    Stopwatch watch =3D new Stopwatch();
+
+    [SetUp]
+    public void Init() {
+
+    }
+
+    [UnityTest]
+    [Timeout(3600000)]
+    public IEnumerator Execute() {
+        yield return new WaitUntil(() =3D&gt; {
+            return true;
+        });
+
+        UIntCheck();
+        IntCheck();
+        ULongCheck();
+        LongCheck();
+    }
+
+    void UIntCheck() {
+        uint val;
+        uint random0 =3D 0;
+        val =3D BattleEncode.UInt32Decode(BattleEncode.UInt32Encode(random0=
+));
+        if (val !=3D random0) {
+            Debug.LogError("=E8=BD=AC=E7=A0=81=E9=94=99=E8=AF=AF:" + random=
+0);
+        }
+
+        uint randomMin =3D uint.MinValue;
+        val =3D BattleEncode.UInt32Decode(BattleEncode.UInt32Encode(randomM=
+in));
+        if (val !=3D randomMin) {
+            Debug.LogError("=E8=BD=AC=E7=A0=81=E9=94=99=E8=AF=AF:" + random=
+Min);
+        }
+
+        uint randomMax =3D uint.MaxValue;
+        val =3D BattleEncode.UInt32Decode(BattleEncode.UInt32Encode(randomM=
+ax));
+        if (val !=3D randomMax) {
+            Debug.LogError("=E8=BD=AC=E7=A0=81=E9=94=99=E8=AF=AF:" + random=
+Max);
+        }
+
+        for (int i =3D 0; i &lt; 10000; i++) {
+            uint random =3D GenerateRandomUInt();
+            val =3D BattleEncode.UInt32Decode(BattleEncode.UInt32Encode(ran=
+dom));
+            Debug.Log($"=E5=80=BC=EF=BC=9Aval:{val},randow:{random}");
+
+            if (val !=3D random) {
+                Debug.LogError("=E8=BD=AC=E7=A0=81=E9=94=99=E8=AF=AF:" + ra=
+ndom);
+            }
+        }
+
+        Debug.Log("=E8=BF=90=E7=AE=97=E5=AE=8C=E6=AF=95");
+    }
+
+    void ULongCheck() {
+        ulong val;
+        ulong random0 =3D 0;
+        val =3D BattleEncode.UInt64Decode(BattleEncode.UInt64Encode(random0=
+));
+        if (val !=3D random0) {
+            Debug.LogError("=E8=BD=AC=E7=A0=81=E9=94=99=E8=AF=AF:" + random=
+0);
+        }
+
+        ulong randomMin =3D ulong.MinValue;
+        val =3D BattleEncode.UInt64Decode(BattleEncode.UInt64Encode(randomM=
+in));
+        if (val !=3D randomMin) {
+            Debug.LogError("=E8=BD=AC=E7=A0=81=E9=94=99=E8=AF=AF:" + random=
+Min);
+        }
+
+        ulong randomMax =3D ulong.MaxValue;
+        val =3D BattleEncode.UInt64Decode(BattleEncode.UInt64Encode(randomM=
+ax));
+        if (val !=3D randomMax) {
+            Debug.LogError("=E8=BD=AC=E7=A0=81=E9=94=99=E8=AF=AF:" + random=
+Max);
+        }
+
+        for (int i =3D 0; i &lt; 10000; i++) {
+            ulong random =3D GenerateRandomULong();
+            val =3D BattleEncode.UInt64Decode(BattleEncode.UInt64Encode(ran=
+dom));
+            Debug.Log($"=E5=80=BC=EF=BC=9Aval:{val},randow:{random}");
+
+            if (val !=3D random) {
+                Debug.LogError("=E8=BD=AC=E7=A0=81=E9=94=99=E8=AF=AF:" + ra=
+ndom);
+            }
+        }
+
+        Debug.Log("=E8=BF=90=E7=AE=97=E5=AE=8C=E6=AF=95");
+    }
+
+    void LongCheck() {
+        long val;
+        long random0 =3D 0;
+        val =3D BattleEncode.Int64Decode(BattleEncode.Int64Encode(random0))=
+;
+        if (val !=3D random0) {
+            Debug.LogError("=E8=BD=AC=E7=A0=81=E9=94=99=E8=AF=AF:" + random=
+0);
+        }
+
+        long randomMin =3D long.MinValue;
+        val =3D BattleEncode.Int64Decode(BattleEncode.Int64Encode(randomMin=
+));
+        if (val !=3D randomMin) {
+            Debug.LogError("=E8=BD=AC=E7=A0=81=E9=94=99=E8=AF=AF:" + random=
+Min);
+        }
+
+        long randomMax =3D long.MaxValue;
+        val =3D BattleEncode.Int64Decode(BattleEncode.Int64Encode(randomMax=
+));
+        if (val !=3D randomMax) {
+            Debug.LogError("=E8=BD=AC=E7=A0=81=E9=94=99=E8=AF=AF:" + random=
+Max);
+        }
+
+        for (int i =3D 0; i &lt; 10000; i++) {
+            long random =3D GenerateRandomLong();
+            val =3D BattleEncode.Int64Decode(BattleEncode.Int64Encode(rando=
+m));
+            Debug.Log($"=E5=80=BC=EF=BC=9Aval:{val},randow:{random}");
+            if (val !=3D random) {
+                Debug.LogError("=E8=BD=AC=E7=A0=81=E9=94=99=E8=AF=AF:" + ra=
+ndom);
+            }
+        }
+
+        Debug.Log("=E8=BF=90=E7=AE=97=E5=AE=8C=E6=AF=95");
+    }
+
+    void IntCheck() {
+        int val;
+        int random0 =3D 0;
+        val =3D BattleEncode.Int32Decode(BattleEncode.Int32Encode(random0))=
+;
+        if (val !=3D random0) {
+            Debug.LogError("=E8=BD=AC=E7=A0=81=E9=94=99=E8=AF=AF:" + random=
+0);
+        }
+
+        int randomMin =3D int.MinValue;
+        val =3D BattleEncode.Int32Decode(BattleEncode.Int32Encode(randomMin=
+));
+        if (val !=3D randomMin) {
+            Debug.LogError("=E8=BD=AC=E7=A0=81=E9=94=99=E8=AF=AF:" + random=
+Min);
+        }
+
+        int randomMax =3D int.MaxValue;
+        val =3D BattleEncode.Int32Decode(BattleEncode.Int32Encode(randomMax=
+));
+        if (val !=3D randomMax) {
+            Debug.LogError("=E8=BD=AC=E7=A0=81=E9=94=99=E8=AF=AF:" + random=
+Max);
+        }
+
+        for (int i =3D 0; i &lt; 10000; i++) {
+            int random =3D UnityEngine.Random.Range(int.MinValue, int.MaxVa=
+lue);
+            val =3D BattleEncode.Int32Decode(BattleEncode.Int32Encode(rando=
+m));
+            Debug.Log($"=E5=80=BC=EF=BC=9Aval:{val},randow:{random}");
+            if (val !=3D random) {
+                Debug.LogError("=E8=BD=AC=E7=A0=81=E9=94=99=E8=AF=AF:" + ra=
+ndom);
+            }
+        }
+
+        Debug.Log("=E8=BF=90=E7=AE=97=E5=AE=8C=E6=AF=95");
+    }
+
+    /// &lt;summary&gt;
+    /// =E5=88=9B=E5=BB=BA long =E7=B1=BB=E5=9E=8B=E9=9A=8F=E6=9C=BA=E6=95=
+=B0
+    /// &lt;/summary&gt;
+    /// &lt;returns&gt;&lt;/returns&gt;
+    public long GenerateRandomLong() {
+        byte[] buffer =3D new byte[8];
+        System.Random random =3D new System.Random();
+        random.NextBytes(buffer);
+        return BitConverter.ToInt64(buffer, 0);
+    }
+
+    /// &lt;summary&gt;
+    /// =E5=88=9B=E5=BB=BA ulong =E7=B1=BB=E5=9E=8B=E9=9A=8F=E6=9C=BA=E6=95=
+=B0
+    /// &lt;/summary&gt;
+    /// &lt;returns&gt;&lt;/returns&gt;
+    public ulong GenerateRandomULong() {
+        byte[] buffer =3D new byte[8];
+        System.Random random =3D new System.Random();
+        random.NextBytes(buffer);
+        ulong result =3D BitConverter.ToUInt64(buffer, 0);
+        return result;
+    }
+
+    /// &lt;summary&gt;
+    /// =E5=88=9B=E5=BB=BA uint =E7=B1=BB=E5=9E=8B=E9=9A=8F=E6=9C=BA=E6=95=
+=B0
+    /// &lt;/summary&gt;
+    /// &lt;returns&gt;&lt;/returns&gt;
+    public uint GenerateRandomUInt() {
+        byte[] buffer =3D new byte[5];
+        System.Random random =3D new System.Random();
+        random.NextBytes(buffer);
+        uint result =3D BitConverter.ToUInt32(buffer, 0);
+        return result;
+    }
+
+    [TearDown]
+    public void TearDown() {
+
+    }
+}
+
+</pre>=20
+</div>=20
+</div>
+    </div>
+</body>
+</html>
+------=_Part_301041_301543981.1688092612614--
